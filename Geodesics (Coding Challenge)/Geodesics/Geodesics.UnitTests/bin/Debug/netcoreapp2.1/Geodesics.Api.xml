@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Geodesics.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Geodesics.Api.Controllers.DistanceController.Get(Geodesics.Domain.Enum.DistanceMethod,Geodesics.Domain.Enum.MeasureUnit,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Retrieves the distance between the provided points.
+            </summary>
+            <response code="200">Distance successfully calculated.</response>
+            <response code="400">Latitude or longitude of any of the given points is out of range.</response>
+            <response code="500">Unexpected server exception.</response>
+        </member>
+        <member name="T:Geodesics.Api.Infrastructure.Swagger.LowercaseDocumentFilter">
+            <summary>
+            A Swagger document filter, which transforms all paths to lower case.
+            </summary>
+        </member>
+    </members>
+</doc>

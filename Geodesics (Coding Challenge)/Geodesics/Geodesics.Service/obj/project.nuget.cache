@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bF26IWk912LeJG+L8ECjvMgPtaV+yPnhPn9KaE5z49jOOfOgacA8pXlVQD1/LW7gjaBnbb8RJ74VEq41jJJ9+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Jarbson\\AnalistaSistemas\\Geodesics (Coding Challenge)\\Geodesics\\Geodesics.Service\\Geodesics.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Developer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
